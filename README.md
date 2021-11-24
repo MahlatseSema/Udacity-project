@@ -1,5 +1,4 @@
 # Udacity-Project 1
-Repository for nanodegree
 
 The following repository was established for the submission of the Udacity nano-degree program project submission.
 It has the following;
